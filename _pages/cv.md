@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* MSc Machine Learning in Science, The University of Nottingham, 2024 (expected)
-* BSc Mathematics, Naresuan University, 2012
+* MSc in Machine Learning in Science, The University of Nottingham, 2024 (expected)
+* BSc in Mathematics, Naresuan University, 2012
 
 Work experience
 ======
 * Jun 2022 – Current : Research Assistant in Human Action Recognition 
-  * National Electronics and Computer Technology Centre (NECTEC)  Pathum Thani, Thai
+  * National Electronics and Computer Technology Centre (NECTEC), Pathum Thani, Thailand
   * Duties includes: Reseached in Human Action Recognition and Computer Vision
   * Supervisor: Dr Sitapa Watcharapinchai, Dr Sorn Sooksatra
 

@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc Machine Learning in Science, The University of Nottingham, 2024 (expected)
+* BSc Mathematics, Naresuan University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun 2022 – Current : Research Assistant in Human Action Recognition 
+  * National Electronics and Computer Technology Centre (NECTEC)  Pathum Thani, Thai
+  * Duties includes: Reseached in Human Action Recognition and Computer Vision
+  * Supervisor: Dr Sitapa Watcharapinchai, Dr Sorn Sooksatra
 
 * Fall 2015: Research Assistant
   * Github University

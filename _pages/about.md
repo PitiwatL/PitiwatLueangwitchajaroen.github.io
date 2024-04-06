@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Pitiwat but my friend call me Summer ☀️!"
+title: "👋🏼 Hello there, I'm Pitiwat, my friends call me Summer ☀️!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

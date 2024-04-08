@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, my name is Pitiwat or you can call me Summer. I'm a Mathematics and Machine Learning enthusiast, currently pursuring an MSc student at the university of Nottingham in MSc Machine Learning in Science.
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/RCPPO.png){: .align-right width="300px"}
 👨🏻‍💻 I'm an MSc student at the The university of Nottingham.
 
 🔬 My research interests are in bridging Neuroscience and Meta-Learning.

@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "The Formula of the Frobenius Number for a Numerical Semigroup with Embedding Dimension Three respect to a Partial Order Relation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'The Frobenius number is the largest positive integer that cannot be expressed as a non-negative linear combination of a given set of positive integers. It is considered to be one of the well-known problems in number theory, especially where the cardinality of the set is greater than three. Recently, algorithms and formulas have been proposed to calculate the Frobenius number in three variables, and various techniques have been used to handle the problem. Currently, for more than three variables, the problem associated with finding the Frobenius number is still considered to be an open problem. In this work, we used the concept of a numerical semigroup to develop an alternative approach to finding the Frobenius and genus number in three variables in particular cases. In the arbitrary variables, the formula presented in three variables can yield an upper bound of the Frobenius number and genus number.'
+date: 2023-5-12
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://ph03.tci-thaijo.org/index.php/ahstr/article/view/1056'
+citation: 'Lueangwitchajaroen, P., Laysirikul, E., The Formula of the Frobenius Number 
+        for a Numerical Semigroup with Embedding Dimension Three respect to a 
+        Partial Order Relation, NUJST: Science and Technology, 31 (2) (2023) 33 - 41.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The Frobenius number is the largest positive integer that cannot be expressed as a non-negative linear combination of a given set of positive integers. It is considered to be one of the well-known problems in number theory, especially where the cardinality of the set is greater than three. Recently, algorithms and formulas have been proposed to calculate the Frobenius number in three variables, and various techniques have been used to handle the problem. Currently, for more than three variables, the problem associated with finding the Frobenius number is still considered to be an open problem. In this work, we used the concept of a numerical semigroup to develop an alternative approach to finding the Frobenius and genus number in three variables in particular cases. In the arbitrary variables, the formula presented in three variables can yield an upper bound of the Frobenius number and genus number.

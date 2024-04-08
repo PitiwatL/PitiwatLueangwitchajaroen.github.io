@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Pitiwat, my friends call me Summer ☀️!"
+title: "👋🏼 Hello there, I'm Pitiwat!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, my name is Pitiwat or you can call me Summer. I'm a Mathematics and Machine Learning enthusiast, currently pursuring an MSc student at the university of Nottingham in MSc Machine Learning in Science. I'm a research-led and passionate person who has a strong mathematical background. After learning the concepts of Few-shot learning during the apprenticeship and recognising their true potential, implementing “Learn to Learn” or “Meta Learning” through Few-shot learning methods could be ways to reduce the tremendous amount of data currently used to train models. Extensive study in these areas could also result in making the system more intelligent. 
+Hi, my name is Pitiwat, my friends usually call me Summer☀️!. I'm a Mathematics and Machine Learning enthusiast, currently pursuring an MSc student at the university of Nottingham in MSc Machine Learning in Science. I'm a research-led and passionate person who has a strong mathematical background. After learning the concepts of Few-shot learning during the apprenticeship and recognising their true potential, implementing “Learn to Learn” or “Meta Learning” through Few-shot learning methods could be ways to reduce the tremendous amount of data currently used to train models. Extensive study in these areas could also result in making the system more intelligent. 
 
 
 ![Illustration of combining vision and language modalities](<img src= '../images/DPST.jpg' width = 300>){: .align-right width="300px"}

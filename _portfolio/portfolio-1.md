@@ -1,6 +1,6 @@
 ---
 title: "2015: Granted the Development and Promotion of Science and Technology Talents Project Scholarship (DPST). "
-excerpt: "Short description of portfolio item number 1<br/><img src='images/DPST.jpeg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/DPST.jpeg'>"
 collection: portfolio
 ---
 

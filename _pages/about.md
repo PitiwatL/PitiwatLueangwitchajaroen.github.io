@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-Hi, my name is Pitiwat or you can call me Summer. I'm a Mathematics and Machine Learning enthusiast, currently pursuring an MSc student at the university of Nottingham in MSc Machine Learning in Science. I'm a research-led and passionate person who has a strong mathematical background looking for flexible jobs in AI related fields. After learning the concepts of Few-shot learning during the apprenticeship and recognising their true potential, implementing “Learn to Learn” or “Meta Learning” through Few-shot learning methods could be ways to reduce the tremendous amount of data currently used to train models. Extensive study in these areas could also result in making the system more intelligent. 
+Hi, my name is Pitiwat or you can call me Summer. I'm a Mathematics and Machine Learning enthusiast, currently pursuring an MSc student at the university of Nottingham in MSc Machine Learning in Science. I'm a research-led and passionate person who has a strong mathematical background. After learning the concepts of Few-shot learning during the apprenticeship and recognising their true potential, implementing “Learn to Learn” or “Meta Learning” through Few-shot learning methods could be ways to reduce the tremendous amount of data currently used to train models. Extensive study in these areas could also result in making the system more intelligent. 
 
 
-![Illustration of combining vision and language modalities](../images/RCPPO.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](<img src= '../images/DPST.jpg' width = 300>){: .align-right width="300px"}
 👨🏻‍💻 I'm an MSc student at the The university of Nottingham.
 
 🔬 My research interests are in bridging Neuroscience and Meta-Learning.

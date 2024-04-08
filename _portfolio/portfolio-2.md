@@ -1,5 +1,5 @@
 ---
-title: "2017: Awarded the National Gold Medal Award for theoretical mathematical project competition, titled The Investigation of the Sums of Powers for the First n Positive Integers. Issued by Thai Ministry of Education."
+title: "2017: Awarded the best theoretical mathematical project of the year 2018 of the national high school mathematical project competition, titled The Generalization of the Power Series with Polynomial Coefficients. Issued by the Thai Ministry of Education."
 excerpt: "Short description of portfolio item number 1 <br/><img src= '../images/GoldMedal1.jpg' width = 300> <img src= '../images/GoldMedal2.jpg' width = 300>"
 collection: portfolio
 ---

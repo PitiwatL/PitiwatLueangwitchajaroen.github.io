@@ -18,7 +18,7 @@ Work experience
 ======
 * Jun 2022 – Current : Research Assistant in Human Action Recognition 
   * National Electronics and Computer Technology Centre (NECTEC), Pathum Thani, Thailand
-  * Duties includes: Reseached in Human Action Recognition and Computer Vision
+  * Duties includes: Reseached on Human Action Recognition and Computer Vision
   * Supervisor: Dr Sitapa Watcharapinchai, Dr Sorn Sooksatra
 
 <!-- * Fall 2015: Research Assistant

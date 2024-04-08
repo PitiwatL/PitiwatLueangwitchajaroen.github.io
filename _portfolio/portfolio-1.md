@@ -1,10 +1,16 @@
----
+<!-- ---
 title: "2015: Granted the Development and Promotion of Science and Technology Talents Project Scholarship (DPST). "
 excerpt: "Short description of portfolio item number 1 <br/><img src= './images/DPST.jpg' width = 250>"
 <p align="center">  
   <img src = "/images/DPST.jpg" width = 250>
 </p>
 
+collection: portfolio
+--- -->
+
+---
+title: "RCPPO"
+excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/DPST.jpg'>"
 collection: portfolio
 ---
 

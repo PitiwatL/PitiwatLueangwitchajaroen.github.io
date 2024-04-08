@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MSc in Machine Learning in Science, The University of Nottingham, 2024 (expected)
-* BSc in Mathematics, Naresuan University, 2012
+* BSc in Mathematics, Naresuan University, 2022
 
 Work experience
 ======

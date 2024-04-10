@@ -49,4 +49,4 @@ Publications
   
 Extracurricular Activities
 ======
-<!-- * Currently signed in to 43 different slack teams -->
+* 2024 Nottingham Counsultant Student for NBPT

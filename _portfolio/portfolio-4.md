@@ -1,6 +1,6 @@
 ---
 title: "2024: Nottingham Counsultant Student to NBPT for Nottingham Consultancy Challenge"
-excerpt: "<br/><img src= '../images/GoldMedal1.jpg' width = 300> <img src= '../Nottingham_Consultancy_Challenge_Completer_2024.png' width = 300>"
+excerpt: "<br/> <img src= '../Nottingham_Consultancy_Challenge_Completer_2024.png' width = 300>"
 collection: portfolio
 ---
 
